@@ -18,6 +18,22 @@
             {
                 "type": "linkedin",
                 "URL": "https://www.linkedin.com/in/dbonillaf/"
+            },
+            {
+                "type": "github",
+                "URL": "https://github.com/dbonillaf"
+            },
+            {
+                "type": "twitter",
+                "URL": "https://twitter.com/david_bonilla"
+            },
+            {
+                "type": "other",
+                "URL": "https://stackoverflow.com/users/11204466/david-bonilla"
+            },
+            {
+                "type": "other",
+                "URL": "https://www.bonilista.com/"
             }
         ],
         "interestingFacts": [
@@ -49,6 +65,10 @@
                 {
                     "type": "linkedin",
                     "URL": "https://www.linkedin.com/in/dbonillaf/"
+                },
+                {
+                    "type": "other",
+                    "URL": "https://stackoverflow.com/users/11204466/david-bonilla"
                 }
             ]
         }
