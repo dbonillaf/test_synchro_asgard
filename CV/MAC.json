@@ -1,0 +1,33 @@
+{
+    "settings": {
+        "language": "EN",
+        "MACversion": "0.3"
+    },
+    "aboutMe": {
+        "profile": {
+            "name": "David",
+            "surnames": "Bonilla",
+            "title": "",
+            "description": "",
+            "avatar": {}
+        },
+        "relevantLinks": [],
+        "interestingFacts": [],
+        "recommendations": []
+    },
+    "experience": {
+        "jobs": [],
+        "projects": [],
+        "publicArtifacts": []
+    },
+    "knowledge": {
+        "studies": []
+    },
+    "careerPreferences": {
+        "contact": {
+            "contactMails": [
+                "david@bonillaware.com"
+            ]
+        }
+    }
+}
