@@ -15,7 +15,16 @@
             }
         },
         "relevantLinks": [],
-        "interestingFacts": [],
+        "interestingFacts": [
+            {
+                "topic": "My first Computer",
+                "fact": "Amstrad CPC 464"
+            },
+            {
+                "topic": "My favourite videogame",
+                "fact": "Sid Meier's Civilization"
+            }
+        ],
         "recommendations": []
     },
     "experience": {
