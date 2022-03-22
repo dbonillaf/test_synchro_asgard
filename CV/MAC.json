@@ -14,7 +14,12 @@
                 "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/dd68e4c4-add1-489a-873a-6602fe467607_-z8btzmy_400x400.jpeg"
             }
         },
-        "relevantLinks": [],
+        "relevantLinks": [
+            {
+                "type": "linkedin",
+                "URL": "https://www.linkedin.com/in/dbonillaf/"
+            }
+        ],
         "interestingFacts": [
             {
                 "topic": "My first Computer",
@@ -39,6 +44,12 @@
         "contact": {
             "contactMails": [
                 "david@bonillaware.com"
+            ],
+            "publicProfiles": [
+                {
+                    "type": "linkedin",
+                    "URL": "https://www.linkedin.com/in/dbonillaf/"
+                }
             ]
         }
     }
