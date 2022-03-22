@@ -1,11 +1,12 @@
 {
+    "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
     "settings": {
         "language": "EN",
         "MACversion": "0.3"
     },
     "aboutMe": {
         "profile": {
-            "name": "David",
+            "name": "David Recaredo",
             "surnames": "Bonilla Fuertes",
             "title": "CEO at Manfred",
             "description": "Llevo casi dos décadas desarrollando software, ocupando puestos a lo largo de toda la cadena de valor -programación, diseño de producto, marketing, ventas y gestión de equipos, departamentos y empresas- pero creo que el rol donde se cruzan mi vocación, mis habilidades y las necesidades de la mayoría de las empresas es en la gestión de equipos y proyectos de construcción de activos digitales.\n\nMe apasiona contribuir en todo el ciclo de vida de un producto o servicio informático, desde la definición hasta el mantenimiento o soporte a clientes, y también involucrarme en la comercialización del mismo.\n\nMe gusta trabajar con gente y para la gente. Como responsable de equipos, mi principal prioridad siempre es eliminar cualquier problema que les impida alcanzar todo su potencial. También procuro devolver a la Comunidad informática parte del valor y el conocimiento que me han aportado a lo largo de mi carrera profesional, dando charlas o colaborando con grupos de usuarios y conferencias técnicas; y, a veces, organizándolos.",
@@ -39,14 +40,28 @@
         "interestingFacts": [
             {
                 "topic": "My first Computer",
-                "fact": "Amstrad CPC 464"
+                "fact": "Amstrad CPC 465"
             },
             {
                 "topic": "My favourite Videogame",
                 "fact": "Sid Meier's Civilization"
             }
         ],
-        "recommendations": []
+        "recommendations": [
+            {
+                "title": "Más que Startups",
+                "type": "other",
+                "URL": null,
+                "authors": [
+                    {
+                        "name": "Alberto",
+                        "surnames": "Molpeceres & David Pombar",
+                        "title": "Author"
+                    }
+                ],
+                "summary": ""
+            }
+        ]
     },
     "experience": {
         "jobs": [
@@ -80,19 +95,80 @@
                         ]
                     }
                 ]
+            },
+            {
+                "organization": {
+                    "name": "Comalatech",
+                    "URL": null
+                },
+                "roles": [
+                    {
+                        "name": "CEO",
+                        "startDate": "2013-02-01",
+                        "challenges": [
+                            {
+                                "description": "I did stuff."
+                            }
+                        ],
+                        "competences": []
+                    }
+                ]
             }
         ],
-        "projects": [],
-        "publicArtifacts": []
+        "projects": [
+            {
+                "details": {
+                    "name": "Pelotator",
+                    "description": "",
+                    "URL": null
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2014-05-01",
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "publicArtifacts": [
+            {
+                "details": {
+                    "name": "JSON Schema",
+                    "description": "",
+                    "URL": null
+                },
+                "type": "talk",
+                "publishingDate": "2015-03-01",
+                "relatedCompetences": []
+            }
+        ]
     },
     "knowledge": {
-        "studies": []
+        "studies": [
+            {
+                "studyType": "officialDegree",
+                "degreeAchieved": true,
+                "name": "Law",
+                "startDate": "2003-06-01",
+                "finishDate": "2007-09-01",
+                "institution": {
+                    "name": "Universidad Autonoma",
+                    "description": "",
+                    "URL": null
+                },
+                "linkedCompetences": []
+            }
+        ]
     },
     "careerPreferences": {
         "contact": {
-            "contactMails": [
-                "david@bonillaware.com"
-            ],
             "publicProfiles": [
                 {
                     "type": "linkedin",
