@@ -9,7 +9,10 @@
             "surnames": "Bonilla",
             "title": "CEO at Manfred",
             "description": "",
-            "avatar": {}
+            "avatar": {
+                "alt": "PH_1.png",
+                "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/2900fa83-8d46-4eaf-975f-c767bc95c18d_ph_1.png"
+            }
         },
         "relevantLinks": [],
         "interestingFacts": [],
