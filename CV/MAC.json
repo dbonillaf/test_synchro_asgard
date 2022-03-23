@@ -12,7 +12,7 @@
             "description": "Llevo casi dos décadas desarrollando software, ocupando puestos a lo largo de toda la cadena de valor -programación, diseño de producto, marketing, ventas y gestión de equipos, departamentos y empresas- pero creo que el rol donde se cruzan mi vocación, mis habilidades y las necesidades de la mayoría de las empresas es en la gestión de equipos y proyectos de construcción de activos digitales.\n\nMe apasiona contribuir en todo el ciclo de vida de un producto o servicio informático, desde la definición hasta el mantenimiento o soporte a clientes, y también involucrarme en la comercialización del mismo.\n\nMe gusta trabajar con gente y para la gente. Como responsable de equipos, mi principal prioridad siempre es eliminar cualquier problema que les impida alcanzar todo su potencial. También procuro devolver a la Comunidad informática parte del valor y el conocimiento que me han aportado a lo largo de mi carrera profesional, dando charlas o colaborando con grupos de usuarios y conferencias técnicas; y, a veces, organizándolos.",
             "avatar": {
                 "alt": "-Z8bTzmY_400x400.jpeg",
-                "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/22/dd68e4c4-add1-489a-873a-6602fe467607_-z8btzmy_400x400.jpeg"
+                "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/233f2f64-d083-4538-8e1f-16a03410f4f5_dd68e4c4-add1-489a-8.jpeg"
             }
         },
         "relevantLinks": [
@@ -59,11 +59,69 @@
                     }
                 ],
                 "summary": ""
+            },
+            {
+                "title": "Más que Startups",
+                "type": "reading",
+                "authors": [
+                    {
+                        "name": "Oso",
+                        "surnames": "Panda",
+                        "title": "Author"
+                    }
+                ]
             }
         ]
     },
     "experience": {
         "jobs": [
+            {
+                "organization": {
+                    "name": "Comalatech"
+                },
+                "roles": [
+                    {
+                        "name": "CEO",
+                        "startDate": "2013-02-01",
+                        "challenges": [
+                            {
+                                "description": "I did stuff."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "organization": {
+                    "name": "Manfred",
+                    "image": {
+                        "alt": "logo-manfred-sponsor.png",
+                        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/03/23/72e8229a-0bd2-4f6c-b388-d14043862fd7_6f1dd163-ba5c-4e47-8.png"
+                    },
+                    "URL": "https://www.getmanfred.com"
+                },
+                "roles": [
+                    {
+                        "name": "CEO",
+                        "startDate": "2018-06-01",
+                        "challenges": [
+                            {
+                                "description": "Hola Caracola"
+                            }
+                        ],
+                        "competences": [
+                            {
+                                "name": "Balsamiq",
+                                "type": "technology"
+                            },
+                            {
+                                "name": "JSON",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
+            },
             {
                 "organization": {
                     "name": "Manfred",
@@ -131,9 +189,47 @@
                         ]
                     }
                 ]
+            },
+            {
+                "details": {
+                    "name": "Pelotator"
+                },
+                "type": "openSource",
+                "roles": [
+                    {
+                        "name": "Developer",
+                        "startDate": "2014-05-01",
+                        "competences": [
+                            {
+                                "name": "JavaScript",
+                                "type": "technology"
+                            }
+                        ]
+                    }
+                ]
             }
         ],
         "publicArtifacts": [
+            {
+                "details": {
+                    "name": "JSON Schema"
+                },
+                "type": "talk",
+                "publishingDate": "2015-03-01",
+                "tags": [
+                    "tech"
+                ]
+            },
+            {
+                "details": {
+                    "name": "Corrí la maratón de Nueva York"
+                },
+                "type": "achievement",
+                "publishingDate": "2006-05-01",
+                "tags": [
+                    "sport"
+                ]
+            },
             {
                 "details": {
                     "name": "JSON Schema",
@@ -170,6 +266,16 @@
                     "name": "Universidad Autonoma",
                     "description": ""
                 }
+            },
+            {
+                "studyType": "officialDegree",
+                "degreeAchieved": true,
+                "name": "Law",
+                "startDate": "2003-06-01",
+                "finishDate": "2007-09-01",
+                "institution": {
+                    "name": "Universidad Autonoma"
+                }
             }
         ]
     },
@@ -179,10 +285,6 @@
                 {
                     "type": "linkedin",
                     "URL": "https://www.linkedin.com/in/dbonillaf/"
-                },
-                {
-                    "type": "other",
-                    "URL": "https://stackoverflow.com/users/11204466/david-bonilla"
                 }
             ]
         }
