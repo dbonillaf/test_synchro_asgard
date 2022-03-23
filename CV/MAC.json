@@ -142,24 +142,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "details": {
-                    "name": "Pelotator"
-                },
-                "type": "openSource",
-                "roles": [
-                    {
-                        "name": "Developer",
-                        "startDate": "2014-05-01",
-                        "competences": [
-                            {
-                                "name": "JavaScript",
-                                "type": "technology"
-                            }
-                        ]
-                    }
-                ]
             }
         ],
         "publicArtifacts": [
