@@ -50,18 +50,6 @@
         "recommendations": [
             {
                 "title": "Más que Startups",
-                "type": "other",
-                "authors": [
-                    {
-                        "name": "Oso",
-                        "surnames": "Panda",
-                        "title": "Author"
-                    }
-                ],
-                "summary": ""
-            },
-            {
-                "title": "Más que Startups",
                 "type": "reading",
                 "authors": [
                     {
