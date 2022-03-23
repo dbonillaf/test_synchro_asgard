@@ -147,16 +147,6 @@
         "publicArtifacts": [
             {
                 "details": {
-                    "name": "JSON Schema"
-                },
-                "type": "talk",
-                "publishingDate": "2015-03-01",
-                "tags": [
-                    "tech"
-                ]
-            },
-            {
-                "details": {
                     "name": "Corrí la maratón de Nueva York"
                 },
                 "type": "achievement",
