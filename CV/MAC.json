@@ -77,22 +77,6 @@
         "jobs": [
             {
                 "organization": {
-                    "name": "Comalatech"
-                },
-                "roles": [
-                    {
-                        "name": "CEO",
-                        "startDate": "2013-02-01",
-                        "challenges": [
-                            {
-                                "description": "I did stuff."
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "organization": {
                     "name": "Manfred",
                     "image": {
                         "alt": "logo-manfred-sponsor.png",
