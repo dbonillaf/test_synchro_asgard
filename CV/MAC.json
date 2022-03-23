@@ -147,16 +147,6 @@
         "publicArtifacts": [
             {
                 "details": {
-                    "name": "Corrí la maratón de Nueva York"
-                },
-                "type": "achievement",
-                "publishingDate": "2006-05-01",
-                "tags": [
-                    "sport"
-                ]
-            },
-            {
-                "details": {
                     "name": "JSON Schema",
                     "description": ""
                 },
