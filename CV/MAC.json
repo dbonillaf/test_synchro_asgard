@@ -181,16 +181,6 @@
                     "name": "Universidad Autonoma",
                     "description": ""
                 }
-            },
-            {
-                "studyType": "officialDegree",
-                "degreeAchieved": true,
-                "name": "Law",
-                "startDate": "2003-06-01",
-                "finishDate": "2007-09-01",
-                "institution": {
-                    "name": "Universidad Autonoma"
-                }
             }
         ]
     },
