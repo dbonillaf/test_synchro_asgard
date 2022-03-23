@@ -2,11 +2,11 @@
     "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
     "settings": {
         "language": "EN",
-        "MACversion": "0.3"
+        "MACVersion": "0.3"
     },
     "aboutMe": {
         "profile": {
-            "name": "David Luis",
+            "name": "David Daniel",
             "surnames": "Bonilla Fuertes",
             "title": "CEO at Manfred",
             "description": "Llevo casi dos décadas desarrollando software, ocupando puestos a lo largo de toda la cadena de valor -programación, diseño de producto, marketing, ventas y gestión de equipos, departamentos y empresas- pero creo que el rol donde se cruzan mi vocación, mis habilidades y las necesidades de la mayoría de las empresas es en la gestión de equipos y proyectos de construcción de activos digitales.\n\nMe apasiona contribuir en todo el ciclo de vida de un producto o servicio informático, desde la definición hasta el mantenimiento o soporte a clientes, y también involucrarme en la comercialización del mismo.\n\nMe gusta trabajar con gente y para la gente. Como responsable de equipos, mi principal prioridad siempre es eliminar cualquier problema que les impida alcanzar todo su potencial. También procuro devolver a la Comunidad informática parte del valor y el conocimiento que me han aportado a lo largo de mi carrera profesional, dando charlas o colaborando con grupos de usuarios y conferencias técnicas; y, a veces, organizándolos.",
@@ -51,7 +51,6 @@
             {
                 "title": "Más que Startups",
                 "type": "other",
-                "URL": null,
                 "authors": [
                     {
                         "name": "Oso",
@@ -98,8 +97,7 @@
             },
             {
                 "organization": {
-                    "name": "Comalatech",
-                    "URL": null
+                    "name": "Comalatech"
                 },
                 "roles": [
                     {
@@ -109,8 +107,7 @@
                             {
                                 "description": "I did stuff."
                             }
-                        ],
-                        "competences": []
+                        ]
                     }
                 ]
             }
@@ -119,8 +116,7 @@
             {
                 "details": {
                     "name": "Pelotator",
-                    "description": "",
-                    "URL": null
+                    "description": ""
                 },
                 "type": "openSource",
                 "roles": [
@@ -141,22 +137,24 @@
             {
                 "details": {
                     "name": "JSON Schema",
-                    "description": "",
-                    "URL": null
+                    "description": ""
                 },
                 "type": "talk",
                 "publishingDate": "2015-03-01",
-                "relatedCompetences": []
+                "tags": [
+                    "tech"
+                ]
             },
             {
                 "details": {
                     "name": "Corrí la maratón de Nueva York",
-                    "description": "",
-                    "URL": null
+                    "description": ""
                 },
                 "type": "achievement",
                 "publishingDate": "2006-05-01",
-                "relatedCompetences": []
+                "tags": [
+                    "sport"
+                ]
             }
         ]
     },
@@ -170,10 +168,8 @@
                 "finishDate": "2007-09-01",
                 "institution": {
                     "name": "Universidad Autonoma",
-                    "description": "",
-                    "URL": null
-                },
-                "linkedCompetences": []
+                    "description": ""
+                }
             }
         ]
     },
